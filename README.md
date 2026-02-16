@@ -1,5 +1,7 @@
 # Derivative Calculator in Brainfuck
 
+> This project was brainstormed and implemented in a single Claude Code session: https://claudebin.com/threads/OFl5KE5_6n
+
 A **938-character Brainfuck program** that computes symbolic derivatives of polynomials.
 
 ```brainfuck
@@ -89,8 +91,3 @@ Cell 3:  multiplier       Cells 7-20: decimal output workspace
 | `bf_interpreter.py` | Python Brainfuck interpreter |
 | `test.py` | 17 test cases |
 
-## Conversation
-
-This project was brainstormed and implemented in a single Claude Code session:
-
-https://claudebin.com/threads/OFl5KE5_6n
